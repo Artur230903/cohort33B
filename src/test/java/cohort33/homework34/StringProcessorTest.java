@@ -2,6 +2,7 @@ package cohort33.homework34;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -39,7 +40,11 @@ public class StringProcessorTest {
     assertEquals("cba", stringProcessor.reverse("abc"));
   }
   @Test
-  public void testPolindrome(){
+  public void testIsPolindrome(){
     assertEquals(true,stringProcessor.isPalindrome("ABBA"));
+  }
+  @Test
+  void testNotPolindrome(){
+    Assertions.assertFalse(stringProcessor.isPalindrome("Hallo"));
   }
 }
