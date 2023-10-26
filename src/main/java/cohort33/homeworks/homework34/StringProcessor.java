@@ -1,4 +1,4 @@
-package cohort33.homework34;
+package cohort33.homeworks.homework34;
 
 public class StringProcessor {
   public String concatenate(String str1, String str2) {

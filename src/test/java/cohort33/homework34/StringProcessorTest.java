@@ -2,8 +2,10 @@ package cohort33.homework34;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import cohort33.homeworks.homework34.StringProcessor;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class StringProcessorTest {
@@ -15,6 +17,7 @@ public class StringProcessorTest {
     stringProcessor = new StringProcessor();
   }
 
+  @DisplayName("====Test for two parametrs====")
   @Test
   public void testTwoStringConcatination() {
     assertEquals("ab", stringProcessor.concatenate("a", "b"));
@@ -39,12 +42,14 @@ public class StringProcessorTest {
   public void tsetReverseString() {
     assertEquals("cba", stringProcessor.reverse("abc"));
   }
+
   @Test
-  public void testIsPolindrome(){
-    assertEquals(true,stringProcessor.isPalindrome("ABBA"));
+  public void testIsPolindrome() {
+    assertEquals(true, stringProcessor.isPalindrome("ABBA"));
   }
+
   @Test
-  void testNotPolindrome(){
+  void testNotPolindrome() {
     Assertions.assertFalse(stringProcessor.isPalindrome("Hallo"));
   }
 }
