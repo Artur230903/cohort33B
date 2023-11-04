@@ -6,25 +6,28 @@ import java.util.Set;
 
 public class UniqueNamesApp {
 
+  private static Set<String> uniqueNames;
+
   public static void main(String[] args) {
 
     Scanner scanner = new Scanner(System.in);
+    System.out.println("Введите имя (если введете `стоп` программа закончит работу)");
 
-    Set<String> uniqueNames = new HashSet<>();
+    uniqueNames = new HashSet<>();
 
     boolean isRun = true;
     while (isRun) {
-      System.out.println("Введите имя (если введете `стоп` программа закончит работу)");
-      String nameScanner = scanner.next();
-      if (!nameScanner.equals("стоп")){
+      String nameScanner = scanner.nextLine();
+      if (!nameScanner.equalsIgnoreCase("стоп")){
         uniqueNames.add(nameScanner);
-      } else if (nameScanner.equals("стоп")) {
+      } else if (nameScanner.equalsIgnoreCase("стоп")) {
         isRun = false;
       }
       else {
         System.err.println("неверный ввод");
       }
     }
+    scanner.close();
     System.out.println(uniqueNames.toString());
   }
 
