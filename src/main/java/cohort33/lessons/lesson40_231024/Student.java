@@ -1,7 +1,6 @@
-package cohort33.lessons.lesson40_20231024;
+package cohort33.lessons.lesson40_231024;
 
 import java.util.Objects;
-import java.util.UUID;
 
 public class Student {
 
@@ -39,17 +38,22 @@ public class Student {
 
   @Override
   public boolean equals(Object o) {
-    if (this == o) {
-      return true;
-    }
-    if (!(o instanceof Student student)) {
-      return false;
-    }
-    return id == student.id && age == student.age && Objects.equals(name, student.name);
+    if (this == o) return true;
+    if (!(o instanceof Student student)) return false;
+    return id == student.id;
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(id, name, age);
+    return Objects.hash(id);
+  }
+
+  @Override
+  public String toString() {
+    return "Student {" +
+        "id =" + id +
+        ", name ='" + name + '\'' +
+        ", age =" + age +
+        '}';
   }
 }

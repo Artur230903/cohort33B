@@ -1,8 +1,7 @@
-package cohort33.lessons.lesson39_20231021;
+package cohort33.lessons.lesson39_231021;
 
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 

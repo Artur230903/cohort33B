@@ -2,13 +2,13 @@ package cohort33.lesson34_20231007;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import cohort33.lessons.lesson34_20231007.calculatorSim;
+import cohort33.lessons.lesson34_231007.calculatorSim;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class calculatorSimTest {
 
-  private cohort33.lessons.lesson34_20231007.calculatorSim calculatorSim;
+  private cohort33.lessons.lesson34_231007.calculatorSim calculatorSim;
 
   @BeforeEach
   public void setUp() {

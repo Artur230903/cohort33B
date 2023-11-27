@@ -1,4 +1,4 @@
-package cohort33.lessons.lesson38_20231019_collections;
+package cohort33.lessons.lesson38_231019_collections;
 
 import java.util.HashSet;
 import java.util.Iterator;
