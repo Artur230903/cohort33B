@@ -1,7 +1,7 @@
 package cohort33.lessons.lesson41_231024_CollectionMap;
 
-import java.sql.SQLOutput;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 public class CollectionMap {
@@ -9,7 +9,7 @@ public class CollectionMap {
   public static void main(String[] args) {
     Map<String, String> phones = new HashMap<>();
 
-    phones.put("123", "Iphone 14 Max");
+    phones.put("12", "Iphone 14 Max");
     phones.put("124", "Iphone 12");
     phones.put("125", "Samsung Galaxy S21");
 
@@ -29,7 +29,29 @@ public class CollectionMap {
 
     System.out.println(phones.size());
 
+    System.out.println("-------------");
+
+    phones.remove("123");
+//    phones.remove("123", "Iphone 15 Max");
+
+    phones.remove(null);
+
     System.out.println(phones);
+
+    System.out.println("-----1-------");
+
+    for (Map.Entry<String, String> phoneMap : phones.entrySet()) {
+      System.out.println(phoneMap.getKey() + " " + phoneMap.getValue());
+    }
+    System.out.println("-----2-------");
+    for (String phoneKey : phones.keySet()){
+      System.out.println(phones.get(phoneKey));
+    }
+    System.out.println("-----3-------");
+    Iterator<Map.Entry<String,String>> iteratorPhone = phones.entrySet().iterator();
+    while (iteratorPhone.hasNext()){
+      System.out.println(iteratorPhone.next());
+    }
 
   }
 
