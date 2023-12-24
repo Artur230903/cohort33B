@@ -1,5 +1,9 @@
 package cohort33.homeworks.homework42;
 
+import static cohort33.examples.colors.colors.ANSI_BLUE;
+import static cohort33.examples.colors.colors.ANSI_RED;
+import static cohort33.examples.colors.colors.ANSI_RESET;
+
 public class Sportsman04 {
 
   private String name04;
@@ -23,10 +27,10 @@ public class Sportsman04 {
 
   public int setNewRecord04(int newRecord04) {
     if (newRecord04 > records04) {
-      System.out.println("New record for " + name04 + " is set.");
+      System.out.println(ANSI_BLUE + "New record for " + name04 + " is set." + ANSI_RESET);
       records04 = newRecord04;
     } else {
-      System.out.println("Not new record for " + name04 + "!");
+      System.out.println(ANSI_RED + "Not new record for " + name04 + "!" + ANSI_RESET);
     }
     return records04;
   }
