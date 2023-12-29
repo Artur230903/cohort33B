@@ -10,4 +10,11 @@ public class BankAccount {
     this.owner = owner;
     this.balance = balance;
   }
+  public double deposit(double amount){
+    return balance = balance + amount;
+  }
+
+  public double getBalance() {
+    return balance;
+  }
 }
