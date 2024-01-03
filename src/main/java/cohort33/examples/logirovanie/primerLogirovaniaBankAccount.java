@@ -1,4 +1,4 @@
-package cohort33.homeworks.homework43;
+package cohort33.examples.logirovanie;
 
 import static cohort33.examples.colors.colors.ANSI_BLUE;
 import static cohort33.examples.colors.colors.ANSI_RED;
@@ -7,15 +7,15 @@ import static cohort33.examples.colors.colors.ANSI_RESET;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class BankAccount {
+public class primerLogirovaniaBankAccount {
 
-  private static final Logger LOGGER = LoggerFactory.getLogger(BankAccount.class);
+  private static final Logger LOGGER = LoggerFactory.getLogger(primerLogirovaniaBankAccount.class);
 
   private String owner;
 
   private double balance;
 
-  public BankAccount(String owner, double balance) {
+  public primerLogirovaniaBankAccount(String owner, double balance) {
     this.owner = owner;
     this.balance = balance;
   }
