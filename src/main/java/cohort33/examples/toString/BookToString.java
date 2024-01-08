@@ -1,6 +1,6 @@
-package cohort33.homeworks.homework44;
+package cohort33.examples.toString;
 
-public class Book {
+public class BookToString {
 
   private String bookAuthor;
 
@@ -8,7 +8,7 @@ public class Book {
 
   private String isbn;
 
-  public Book(String bookAuthor, String nameOfBook, String isbn) {
+  public BookToString(String bookAuthor, String nameOfBook, String isbn) {
     this.bookAuthor = bookAuthor;
     this.nameOfBook = nameOfBook;
     this.isbn = isbn;
