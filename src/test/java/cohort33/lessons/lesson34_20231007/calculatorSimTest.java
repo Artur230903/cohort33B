@@ -1,4 +1,4 @@
-package cohort33.lesson34_20231007;
+package cohort33.lessons.lesson34_20231007;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

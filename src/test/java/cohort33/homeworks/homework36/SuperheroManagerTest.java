@@ -1,4 +1,4 @@
-package cohort33.homework36;
+package cohort33.homeworks.homework36;
 
 import cohort33.homeworks.homework36.Superhero;
 import cohort33.homeworks.homework36.SuperheroManager;

@@ -1,4 +1,4 @@
-package cohort33.lesson36;
+package cohort33.lessons.lesson36;
 
 import cohort33.lessons.lesson36.Contact;
 import cohort33.lessons.lesson36.Phonebook;

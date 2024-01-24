@@ -1,4 +1,4 @@
-package cohort33.homework35;
+package cohort33.homeworks.homework35;
 
 import static org.junit.jupiter.api.Assertions.*;
 

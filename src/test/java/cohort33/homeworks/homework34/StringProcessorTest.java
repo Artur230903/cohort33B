@@ -1,4 +1,4 @@
-package cohort33.homework34;
+package cohort33.homeworks.homework34;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

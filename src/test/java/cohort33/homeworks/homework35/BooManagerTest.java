@@ -1,4 +1,4 @@
-package cohort33.homework35;
+package cohort33.homeworks.homework35;
 
 import cohort33.homeworks.homework35.BooManager;
 import cohort33.homeworks.homework35.Book;
