@@ -10,7 +10,7 @@ public class Zoo {
     Scanner inputScanner = new Scanner(System.in);
 
     boolean isRun = true;
-    while (isRun) {
+    while (isRun == true) {
       System.out.print("Input number to choose animal or 7 to exit: ");
       int choiceNumber = inputScanner.nextInt();
 

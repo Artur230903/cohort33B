@@ -1,4 +1,4 @@
-package cohort33.examples.tryCatch;
+package cohort33.examples.exceptions;
 
 public class ExceptionsMainTryCatch {
 

@@ -1,0 +1,33 @@
+Java IO
+
+InputStream
+
+Reader
+
+OutputStream
+
+Writer
+
+InputStream
+
+OutputStream
+
+FileInputStream
+
+FileOutputStream
+
+FileReader
+
+FileWriter
+
+synchronized
+
+ByteArrayInputStream
+
+CharArrayReader
+
+BufferedInputStream
+
+BufferedReader
+
+Пример: Scanner
