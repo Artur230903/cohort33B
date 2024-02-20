@@ -1,4 +1,4 @@
-package cohort33.lessons.lesson20231120;
+package cohort33.lessons.lesson20231120_createFilesAndOtherInstruments;
 
 import java.io.File;
 import java.io.IOException;
