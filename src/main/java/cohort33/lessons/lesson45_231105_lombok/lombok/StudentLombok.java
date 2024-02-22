@@ -1,4 +1,4 @@
-package cohort33.lessons.lombok;
+package cohort33.lessons.lesson45_231105_lombok.lombok;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

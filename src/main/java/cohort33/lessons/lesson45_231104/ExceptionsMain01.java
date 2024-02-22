@@ -1,6 +1,5 @@
 package cohort33.lessons.lesson45_231104;
 
-import cohort33.lessons.lombok.Student;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

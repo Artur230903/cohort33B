@@ -1,6 +1,5 @@
-package cohort33.lessons.lombok;
+package cohort33.lessons.lesson45_231105_lombok.lombok;
 
-import cohort33.examples.logirovanie.primerLogirovaniaBankAccount;
 import java.util.Objects;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

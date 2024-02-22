@@ -9,7 +9,7 @@ public class JavaReadFile {
 
   //throws IO Exception это в случае если файл не существует
   public static void main(String[] args) throws IOException {
-    File file = new File("D:\\IntelliJ IDEA Community Edition 2023.1.2\\"
+    File file = new File("D:\\IntelliJIDEAcohort33\\"
         + "Projects\\cohort33B\\MyDirectory\\Book.txt");
     file.createNewFile();
 
