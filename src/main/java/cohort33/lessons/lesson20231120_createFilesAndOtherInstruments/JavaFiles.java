@@ -18,7 +18,7 @@ public class JavaFiles {
     System.out.println(fileOne.createNewFile());
 
     System.out.println("-----" + (counter++) + "-----");
-    File fileTwo = new File("D:\\IntelliJ IDEA Community Edition 2023.1.2\\Projects\\cohort33B\\files\\fileTwo.txt");
+    File fileTwo = new File("D:\\IntelliJIDEAcohort33\\Projects\\cohort33B\\files\\fileTwo.txt");
     System.out.println(fileTwo.createNewFile());
     String pathTwoAbsolutePath = fileTwo.getAbsolutePath();
     System.out.println(pathTwoAbsolutePath);

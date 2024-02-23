@@ -1,0 +1,50 @@
+2023-12-30 09:17:20.203 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:17:20.207 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:19:30.548 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:19:30.549 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:20:15.921 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:20:15.923 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:20:15.923 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму 38.77999999999997
+2023-12-30 09:20:58.308 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:20:58.310 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:20:58.310 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму 38.77999999999997
+2023-12-30 09:27:20.998 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:27:20.999 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:27:21.000 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму 38.77999999999997
+2023-12-30 09:29:11.689 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:29:11.690 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:29:11.691 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму 38.77999999999997
+2023-12-30 09:29:11.692 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:31:45.718 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:31:45.720 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:31:45.720 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму 38.77999999999997
+2023-12-30 09:31:45.721 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:32:15.763 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:32:15.765 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.78
+2023-12-30 09:32:15.765 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму 38.77999999999997
+2023-12-30 09:32:15.766 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:32:47.377 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму 500.0 EUR
+2023-12-30 09:32:47.378 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму 2038.79
+2023-12-30 09:32:47.379 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму 38.789999999999964
+2023-12-30 09:32:47.380 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:43:13.987 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму € 500.0 EUR
+2023-12-30 09:43:13.988 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму € 2038.79, данную сумму снять невозможно
+2023-12-30 09:43:13.988 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму € 38.789999999999964
+2023-12-30 09:43:13.989 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:45:02.975 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму € 500.0 EUR
+2023-12-30 09:45:02.978 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму € 2038.79, данную сумму снять невозможно
+2023-12-30 09:45:02.978 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму € 38.789999999999964
+2023-12-30 09:45:02.978 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:49:46.911 [main] INFO  c.homeworks.homework43.BankAccount - Аккаунт владельца Viktor пополнен на сумму € -500.0 EUR
+2023-12-30 09:49:46.913 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму € 1038.79, данную сумму снять невозможно
+2023-12-30 09:49:46.913 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму € 1038.79, данную сумму снять невозможно
+2023-12-30 09:49:46.914 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:55:24.700 [main] ERROR c.homeworks.homework43.BankAccount - С счета Viktor была попытка снять сумму € -500.0
+2023-12-30 09:55:24.702 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму € 1538.79, данную сумму снять невозможно
+2023-12-30 09:55:24.702 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму € 1538.79, данную сумму снять невозможно
+2023-12-30 09:55:24.703 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor
+2023-12-30 09:57:06.009 [main] ERROR c.homeworks.homework43.BankAccount - С счета Viktor была попытка снять сумму € -300.0
+2023-12-30 09:57:06.011 [main] INFO  c.homeworks.homework43.BankAccount - Счет владельца Viktor пополнен на сумму € 750.0
+2023-12-30 09:57:06.012 [main] ERROR c.homeworks.homework43.BankAccount - На счете Viktor находяться средства на сумму € 2288.79, данную сумму снять невозможно
+2023-12-30 09:57:06.012 [main] INFO  c.homeworks.homework43.BankAccount - На счете Viktor осталось средств на сумму € 288.78999999999996
+2023-12-30 09:57:06.012 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Viktor

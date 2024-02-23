@@ -1,0 +1,7 @@
+Heathrow;LHR;United Kingdom
+Haneda;HND;Japan
+Schiphol;AMS;Netherlands
+Changi;SIN;Singapore
+Incheon;ICN;South Korea
+Ben Gurion - 2;TVL;Israel
+Kingsford Smith;SYD;Australia

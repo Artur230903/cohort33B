@@ -1,0 +1,19 @@
+2024-02-20 09:04:44.637 [main] INFO  c.l.l.h.DirectoryFileCreator - Директория D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory\MyDirectory успешно создана
+2024-02-20 09:04:44.647 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory\MyDirectory был успешно создан
+2024-02-20 09:04:44.648 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt был успешно удален в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory\MyDirectory\MyFile.txt
+2024-02-20 09:06:14.989 [main] WARN  c.l.l.h.DirectoryFileCreator - Создание директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory невозможно. Она уже существует
+2024-02-20 09:07:01.125 [main] INFO  c.l.l.h.DirectoryFileCreator - Директория D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory успешно создана
+2024-02-20 09:07:01.129 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory был успешно создан
+2024-02-20 09:07:01.129 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt был успешно удален в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory\MyFile.txt
+2024-02-20 09:07:13.084 [main] WARN  c.l.l.h.DirectoryFileCreator - Создание директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory невозможно. Она уже существует
+2024-02-20 09:10:13.123 [main] WARN  c.l.l.h.DirectoryFileCreator - Создание директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory невозможно. Она уже существует
+2024-02-20 09:13:33.981 [main] WARN  c.l.l.h.DirectoryFileCreator - Создание директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory невозможно. Она уже существует
+2024-02-20 09:14:15.260 [main] INFO  c.l.l.h.DirectoryFileCreator - Директория D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory успешно создана
+2024-02-20 09:14:15.262 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory был успешно создан
+2024-02-20 09:14:15.262 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt был успешно удален в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory\MyFile.txt
+2024-02-20 09:16:55.373 [main] INFO  c.l.l.h.DirectoryFileCreator - Директория D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory успешно создана
+2024-02-20 09:16:55.376 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory был успешно создан
+2024-02-20 09:16:55.377 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt был успешно удален в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory\MyFile.txt
+2024-02-20 09:16:55.377 [main] INFO  c.l.l.h.DirectoryFileCreator - Директория D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory была успешно удалена
+2024-02-20 09:30:15.583 [main] INFO  c.l.l.h.DirectoryFileCreator - Директория D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory успешно создана
+2024-02-20 09:30:15.586 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory был успешно создан

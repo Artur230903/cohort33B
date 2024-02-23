@@ -1,0 +1,2 @@
+2024-02-19 15:04:38.615 [main] INFO  c.l.l.h.DirectoryFileCreator - Директория D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory успешно создана
+2024-02-19 15:04:38.625 [main] INFO  c.l.l.h.DirectoryFileCreator - Файл MyFile.txt в директории D:\IntelliJ IDEA Community Edition 2023.1.2\Projects\cohort33B\MyDirectory был успешно создан

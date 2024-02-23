@@ -1,0 +1,11 @@
+2024-02-22 08:51:22.419 [main] ERROR c.l.l.FileTextWorker - File not found source.txt (The system cannot find the file specified)
+2024-02-22 08:53:16.366 [main] ERROR c.l.l.FileTextWorker - File not found source.txt (The system cannot find the file specified)
+2024-02-22 08:55:11.514 [main] ERROR c.l.l.FileTextWorker - File not found source.txt (The system cannot find the file specified)
+2024-02-22 09:02:34.679 [main] ERROR c.l.l.FileTextWorker01 - File not found sourceA.txt (The system cannot find the file specified)
+2024-02-22 12:28:57.084 [main] INFO  c.l.l.FileTextWorker01 - Запись успешно завершена
+2024-02-22 12:30:06.966 [main] INFO  c.l.l.FileTextWorker01 - Запись успешно завершена
+2024-02-22 12:47:53.213 [main] ERROR c.l.l.FileTextWorker01 - File not found sourceA.txt (The system cannot find the file specified)
+2024-02-22 12:48:21.754 [main] INFO  c.l.l.FileTextWorker01 - Word Amazon was sucessfully processed. Result nozamA
+2024-02-22 12:48:21.755 [main] INFO  c.l.l.FileTextWorker01 - Word 654321 was sucessfully processed. Result 123456
+2024-02-22 13:17:30.771 [main] INFO  c.l.l.TextConvertor - Запись успешно завершена
+2024-02-22 13:23:34.465 [main] INFO  c.l.l.TextConvertor - Запись успешно завершена

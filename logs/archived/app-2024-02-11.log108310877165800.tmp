@@ -1,0 +1,6 @@
+2024-02-11 10:12:28.050 [main] INFO  c.l.l.h.AuthenticationService - User user123 was authenticated
+2024-02-11 10:13:00.234 [main] ERROR c.l.l.h.AuthenticationService - Wrong username/password Username: user111
+2024-02-11 10:13:45.523 [main] INFO  c.l.l.h.AuthenticationService - User user123 was authenticated
+2024-02-11 10:15:31.191 [main] INFO  c.l.l.h.AuthenticationService - User user123 was authenticated
+2024-02-11 10:16:01.307 [main] INFO  c.l.l.h.AuthenticationService - User user123 was authenticated
+2024-02-11 10:16:39.101 [main] ERROR c.l.l.h.AuthenticationService - Wrong username/password Username: user111 Wrong username/password Username: user111

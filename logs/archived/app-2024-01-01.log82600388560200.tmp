@@ -1,0 +1,4 @@
+2024-01-01 11:19:49.518 [main] INFO  c.homeworks.homework43.BankAccount - Счет владельца Mustermann пополнен на сумму € 100.0
+2024-01-01 11:19:49.524 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Mustermann
+2024-01-01 11:22:41.312 [main] INFO  c.homeworks.homework43.BankAccount - Счет владельца Mustermann пополнен на сумму € 100.0
+2024-01-01 11:22:41.315 [main] DEBUG c.homeworks.homework43.BankAccount - Сделан запрос на текущи баланс счета Mustermann

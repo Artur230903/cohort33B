@@ -1,0 +1,173 @@
+2024-01-22 05:38:02.791 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty
+2024-01-22 05:40:47.222 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty
+2024-01-22 05:42:24.070 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty
+2024-01-22 05:46:24.166 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:21)
+2024-01-22 05:49:00.862 [main] ERROR c.l.l.homework46.UserPassValidator - Password is wrong: 234
+java.lang.IllegalArgumentException: Password length must be 8 symbols.
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.validatePassword(UserPassValidator.java:55)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:25)
+2024-01-22 05:49:00.867 [main] INFO  c.l.l.homework46.UserPassValidator - User account was created user11.
+2024-01-22 05:53:11.188 [main] ERROR c.l.l.homework46.UserPassValidator - Password is wrong: 23
+java.lang.IllegalArgumentException: Password length must be 8 symbols.
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.validatePassword(UserPassValidator.java:53)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 05:54:49.877 [main] ERROR c.l.l.homework46.UserPassValidator - Password is wrong: ццццуууукк
+java.lang.IllegalArgumentException: Password length must be 8 symbols.
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.validatePassword(UserPassValidator.java:53)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 05:57:09.318 [main] ERROR c.l.l.homework46.UserPassValidator - Password is wrong: qwertyui2
+java.lang.IllegalArgumentException: Password length must be 8 symbols and include one number and include special character.
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.validatePassword(UserPassValidator.java:53)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 05:57:40.701 [main] INFO  c.l.l.homework46.UserPassValidator - User account was created ed.
+2024-01-22 06:12:55.422 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:12:55.426 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:13:47.300 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:13:47.301 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:13:49.268 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:13:49.619 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:13:50.884 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:13:51.724 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:14:31.219 [main] ERROR c.l.l.homework46.UserPassValidator - Password is wrong: sd
+java.lang.IllegalArgumentException: Password length must be 8 symbols and include one number and include special character.
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.validatePassword(UserPassValidator.java:62)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:32)
+2024-01-22 06:14:31.220 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)
+2024-01-22 06:14:57.628 [main] INFO  c.l.l.homework46.UserPassValidator - User account was created werwetwet234!.
+2024-01-22 06:17:24.126 [main] ERROR c.l.l.homework46.UserPassValidator - Password is wrong: asdggg
+java.lang.IllegalArgumentException: Password length must be 8 symbols and include one number and include special character.
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.validatePassword(UserPassValidator.java:62)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:32)
+2024-01-22 06:17:24.130 [main] ERROR c.l.l.homework46.UserPassValidator - Username is empty.
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at cohort33.lessons.lesson47_231109.homework46.UserPassValidator.main(UserPassValidator.java:24)

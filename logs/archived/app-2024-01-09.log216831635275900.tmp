@@ -1,0 +1,5 @@
+2024-01-09 10:13:46.024 [main] INFO  cohort33.lessons.lombok.Student - Student was created
+2024-01-09 10:13:46.030 [main] INFO  c.lessons.lombok.StudentLombok - Student Anna-Maria
+2024-01-09 15:40:53.636 [main] ERROR c.l.lesson45_231104.ExceptionsMain01 - / by zero
+2024-01-09 15:43:25.233 [main] ERROR c.l.lesson45_231104.ExceptionsMain01 - / by zero
+2024-01-09 15:43:25.235 [main] ERROR c.l.lesson45_231104.ExceptionsMain01 - null

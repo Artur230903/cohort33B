@@ -1,0 +1,7 @@
+Heathrow LHR UnitedKingdom
+Haneda HND Japan
+Schiphol AMS Netherlands
+Changi SIN Singapore
+Incheon ICN South Korea
+BenGurion TVL Israel
+KingsfordSmith SYD Australia
