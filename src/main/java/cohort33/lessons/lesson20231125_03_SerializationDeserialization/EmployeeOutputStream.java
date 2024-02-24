@@ -17,13 +17,11 @@ public class EmployeeOutputStream {
 
   public static void main(String[] args) {
     Employee employeeBatman = new Employee(1876, "Batman");
-//    Employee employeeRobin = new Employee(1900, "Robin");
 
     try (FileOutputStream fileOutputStream = new FileOutputStream(path);
         ObjectOutputStream outputStream = new ObjectOutputStream(fileOutputStream)) {
 
       outputStream.writeObject(employeeBatman);
-//      outputStream.writeObject(employeeRobin);
       outputStream.flush();
       LOGGER.info("Employee data was successfully saved. id: {}", employeeBatman.getId());
 

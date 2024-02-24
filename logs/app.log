@@ -31,3 +31,30 @@
 2024-02-24 14:58:43.939 [main] INFO  c.l.l.EmployeeOutputStream - Employee data was successfully saved. id: 1876
 2024-02-24 14:59:38.001 [main] INFO  c.l.l.EmployeeInputStream - Object was successfully created, ID: 1876
 2024-02-24 15:02:07.467 [main] INFO  c.l.l.EmployeeInputStream - Object was successfully created, ID: 1876, Name: Batman
+2024-02-24 15:11:31.100 [main] INFO  c.l.l.EmployeeOutputStream - Employee data was successfully saved. id: 1876
+2024-02-24 15:11:40.681 [main] INFO  c.l.l.EmployeeInputStream - Object was successfully created, ID: 1876, Name: Batman
+2024-02-24 15:16:29.595 [main] INFO  c.l.l.EmployeeInputStream - Object was successfully created, ID: 1876, Name: Batman
+2024-02-24 16:34:55.702 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 1876
+2024-02-24 16:36:09.384 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 1876
+2024-02-24 16:40:00.211 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 1876
+2024-02-24 16:40:00.213 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 2000
+2024-02-24 16:42:00.992 [main] INFO  c.l.l.EmployeeInputStream04 - Object was successfully created, ID: 1876, Name: Batman
+2024-02-24 16:43:30.608 [main] INFO  c.l.l.EmployeeInputStream04 - Object was successfully created, ID: 1876, Name: Batman Salary: 2000
+2024-02-24 16:51:49.063 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 1876
+2024-02-24 17:02:18.755 [main] INFO  c.l.l.EmployeeInputStream04 - Object was NOT found. ID: 1876, Name: Batman
+2024-02-24 17:02:18.756 [main] INFO  c.l.l.EmployeeInputStream04 - Object was found. ID: 2000, Name: Robin
+2024-02-24 17:02:59.190 [main] INFO  c.l.l.EmployeeInputStream04 - Object was NOT found. ID: 1876, Name: Batman
+2024-02-24 17:02:59.192 [main] INFO  c.l.l.EmployeeInputStream04 - Object was found. ID: 2000, Name: Robin, Salary: 65000
+2024-02-24 17:07:32.794 [main] WARN  c.l.l.EmployeeInputStream04 - Object is NOT suitable. ID: 1876, Name: Batman, Salary: 2000
+2024-02-24 17:07:32.796 [main] INFO  c.l.l.EmployeeInputStream04 - Object was found. ID: 2000, Name: Robin, Salary: 65000
+2024-02-24 17:15:35.356 [main] ERROR c.l.l.EmployeeInputStream04 - Error in data processing. Fail: D:\IntelliJIDEAcohort33\Projects\cohort33B\src\main\java\cohort33\lessons\lesson20231125_04\employees04.txt, exception: cohort33.lessons.lesson20231125_04.Employee04; local class incompatible: stream classdesc serialVersionUID = 1, local class serialVersionUID = 10
+2024-02-24 17:16:01.853 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 1876
+2024-02-24 17:16:14.806 [main] WARN  c.l.l.EmployeeInputStream04 - Object is NOT suitable. ID: 1876, Name: Batman, Salary: 2000
+2024-02-24 17:16:14.807 [main] INFO  c.l.l.EmployeeInputStream04 - Object was found. ID: 2000, Name: Robin, Salary: 65000
+2024-02-24 17:17:19.095 [main] ERROR c.l.l.EmployeeInputStream04 - Error in data processing. Fail: D:\IntelliJIDEAcohort33\Projects\cohort33B\src\main\java\cohort33\lessons\lesson20231125_04\employees04.txt, exception: cohort33.lessons.lesson20231125_04.Employee04; local class incompatible: stream classdesc serialVersionUID = 10, local class serialVersionUID = 15
+2024-02-24 17:17:31.343 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 1876
+2024-02-24 17:17:39.096 [main] WARN  c.l.l.EmployeeInputStream04 - Object is NOT suitable. ID: 1876, Name: Batman, Salary: 2000
+2024-02-24 17:17:39.098 [main] INFO  c.l.l.EmployeeInputStream04 - Object was found. ID: 2000, Name: Robin, Salary: 65000
+2024-02-24 17:17:55.518 [main] INFO  c.l.l.EmployeeOutputStream04 - Employee data was successfully saved. id: 1876
+2024-02-24 17:18:00.152 [main] WARN  c.l.l.EmployeeInputStream04 - Object is NOT suitable. ID: 1876, Name: Batman, Salary: 2000
+2024-02-24 17:18:00.153 [main] INFO  c.l.l.EmployeeInputStream04 - Object was found. ID: 2000, Name: Robin, Salary: 65000
