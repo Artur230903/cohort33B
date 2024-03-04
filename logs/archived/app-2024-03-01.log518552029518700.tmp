@@ -1,0 +1,3 @@
+2024-03-01 06:43:51.360 [main] ERROR c.h.homework53_02.ReadFromFile - Error in data processing. Fail: D:\IntelliJIDEAcohort33\Projects\cohort33B\src\main\java\cohort33\homeworks\homework53_02\animalfile.jct, exception: invalid stream header: 4E616D65
+2024-03-01 06:45:22.895 [main] ERROR c.h.homework53_02.ReadFromFile - Error in data processing. Fail: D:\IntelliJIDEAcohort33\Projects\cohort33B\src\main\java\cohort33\homeworks\homework53_02\animalfile.jct, exception: invalid stream header: 4E616D65
+2024-03-01 06:45:58.174 [main] ERROR c.h.homework53_02.ReadFromFile - Error in data processing. Fail: D:\IntelliJIDEAcohort33\Projects\cohort33B\src\main\java\cohort33\homeworks\homework53_02\animalfile.jct, exception: invalid stream header: 4E616D65

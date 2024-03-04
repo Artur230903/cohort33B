@@ -1,0 +1,2 @@
+2024-02-28 05:40:15.346 [main] ERROR c.l.l.homework53.AnimalFileReader - File not found animalsHeroesR.txt (The system cannot find the file specified)
+2024-02-28 06:20:38.863 [main] ERROR c.examples.IOString.AnimalFileReader - File not found D:\IntelliJIDEAcohort33\Projects\cohort33B\src\main\java\cohort33\examples\IOString\animalsHeroesR.txt (The system cannot find the file specified)

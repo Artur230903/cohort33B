@@ -1,0 +1,2 @@
+Name: Hatiko, Species: Dog, Age: 5
+Name: Simba, Species: Lion, Age: 10
