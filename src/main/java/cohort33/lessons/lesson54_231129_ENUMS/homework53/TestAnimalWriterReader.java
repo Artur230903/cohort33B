@@ -1,4 +1,4 @@
-package cohort33.lessons.lesson54_231129.homework53;
+package cohort33.lessons.lesson54_231129_ENUMS.homework53;
 
 import java.util.ArrayList;
 import java.util.List;

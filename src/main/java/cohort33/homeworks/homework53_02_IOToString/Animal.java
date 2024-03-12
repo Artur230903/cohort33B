@@ -1,10 +1,10 @@
-package cohort33.lessons.lesson54_231129.homework53;
+package cohort33.homeworks.homework53_02_IOToString;
 
 public class Animal {
 
   private String name;
 
-  private String species;
+  private  String species;
 
   private int age;
 
@@ -36,7 +36,6 @@ public class Animal {
 
   @Override
   public String toString() {
-    return
-        "Name: " + name + ", Species: " + species + ", Age: " + age + "\n";
+    return "Name: " + name + ", Species: " + species + ", Age: " + age + "." + "\n";
   }
 }
