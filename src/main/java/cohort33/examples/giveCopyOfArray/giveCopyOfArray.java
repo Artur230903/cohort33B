@@ -6,7 +6,7 @@ import java.util.List;
 
 public class giveCopyOfArray {
 
-  List<Book> books = new ArrayList<>();
+  private List<Book> books = new ArrayList<>();
 
   public List<Book> getBooks() {
     return new ArrayList<>(books);

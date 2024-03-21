@@ -20,6 +20,7 @@ public class Album {
 
   @Override
   public String toString() {
-    return "nameOfAlbum: " + nameOfAlbum + ", nameOfCompositor: " + nameOfCompositor;
+    return "nameOfAlbum: " + nameOfAlbum + ", nameOfCompositor: " + nameOfCompositor
+        + ", description: " + "\"" + musicGenre.getDescription() + "\"";
   }
 }

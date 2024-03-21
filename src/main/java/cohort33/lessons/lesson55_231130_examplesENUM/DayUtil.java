@@ -1,4 +1,4 @@
-package cohort33.lessons.lesson55_231130;
+package cohort33.lessons.lesson55_231130_examplesENUM;
 
 public class DayUtil {
 
