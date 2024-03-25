@@ -14,7 +14,7 @@ public class FashionShop {
       catalog.put(category, new HashSet<>());
     }
   }
-  public  void addFashionItem(FashionItem fashionItem){
+  public void addFashionItem(FashionItem fashionItem){
     catalog.get(fashionItem.getFashionCategory()).add(fashionItem);
   }
 

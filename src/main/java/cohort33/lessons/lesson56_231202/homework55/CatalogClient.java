@@ -30,5 +30,7 @@ public class CatalogClient {
     System.out.println("-----" + (counter++) + "-----");
     fashionShop.showAboutSeason(Season.ALLSEASONS);
 
+    System.out.println();
+
   }
 }
