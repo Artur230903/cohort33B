@@ -18,4 +18,4 @@ GMT20231202 - 0.55.07 Разбор интересной домашки, тема
 GMT20231205 - 1.24.0 Multidimensional Array
 GMT20231209 - 1.21.45 lambda
 GMT20231216 - 1.21.30 multithreading
-GMT20231221 - 0.34.0
+GMT20231222 - 0.0.0
